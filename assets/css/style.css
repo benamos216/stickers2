@@ -3,3 +3,11 @@ body {
     color: #f29e39;
     border-color: #ff3366;
 }
+
+.menu {
+    color: #ff3366;
+}
+
+.menu:hover {
+    color: #f29e39;
+}
